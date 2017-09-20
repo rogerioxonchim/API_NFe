@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: br.com.autocom:nfe-wsdl:3.10c">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/br/com/autocom/nfe-wsdl/3.10c/nfe-wsdl-3.10c.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/br/com/autocom/nfe-wsdl/3.10c/nfe-wsdl-3.10c-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/br/com/autocom/nfe-wsdl/3.10c/nfe-wsdl-3.10c-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
